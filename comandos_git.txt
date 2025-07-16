@@ -1,4 +1,5 @@
-git initi . -> Cria um repo git na pasta atual
+git initi -> Cria um repo git na pasta atual
 git status -> Mostra o status do trabalho
 git add nome_arquivo -> mostra o status do trabalho (de cada arquivo no repositorio)
 git commit -m -> faz commit do que estava para ser commitado
+git log -> mostra todo o histórico de commits
