@@ -3,3 +3,5 @@ cd -> move entre diretórios
 pwd -> mostra o diretório de trabalho
 ls -a -> volta para a pasta mãe da onde estou
 mkdir -> Cria uma nova pasta
+cat -> exibe conteúdo do arquivo
+rm - remove o arquivo ou diretorio
