@@ -1,8 +1,8 @@
-git initi -> Cria um repo git na pasta atual
-git status -> Mostra o status do trabalho
-git add nome_arquivo -> mostra o status do trabalho (de cada arquivo no repositorio)
-git commit -m -> faz commit do que estava para ser commitado
-git log -> mostra todo o histórico de commits
+git initi 			-> Cria um repo git na pasta atual
+git status 			-> Mostra o status do trabalho
+git add nome_arquivo 		-> Mostra o status do trabalho (de cada arquivo no repositorio)
+git commit -m 			-> Ffaz commit do que estava para ser commitado
+git log 			-> Mostra todo o histórico de commits
 
 
 1. Criar o diretório do projeto
@@ -14,5 +14,3 @@ git log -> mostra todo o histórico de commits
 7. git commit -m "Mensagem"
 8. git status
 9 volta para o passo 3
-
-vaisefoder
