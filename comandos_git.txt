@@ -5,14 +5,12 @@ git commit -m -> faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commits
 
 
-1. Criar o diretório do projeto
+1. Criar o diretório (pasta) do projeto
 2. Iniciar o git dentro do diretório criado (git init .)
 3. Edita ou cria o arquivo
 4. git status
 5. git add <nome arquivo>
 6. git status
-7. git commit -m "Mensagem"
+7. git commit -m "Mensagem estranha"
 8. git status
 9 volta para o passo 3
-
-vaisefoder
