@@ -12,3 +12,13 @@ Alpem disso, vamos trabalhar com gitflow ao final do curso e visual studio code.
 
 Confira tudo o que temos no nosso youtube. É grátis.
 
+
+
+
+
+Pessoas participantes:
+
+Teo
+
+Pedro
+
